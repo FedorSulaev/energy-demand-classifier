@@ -1,4 +1,4 @@
-## 🔍 EDA Focus Questions
+## EDA Focus Questions
 
 ### Target Variable
 - What is the distribution of demand classes (Low/Medium/High)?  

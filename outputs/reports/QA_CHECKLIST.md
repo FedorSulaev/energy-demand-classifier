@@ -1,4 +1,4 @@
-## 📝 Data Preprocessing Checklist – Electricity Demand Dataset
+## Data Preprocessing Checklist – Electricity Demand Dataset
 
 ### 1. Schema Validation
 - Are all expected columns present? → ✅ Yes, `DateTime`, `Consumption`, and production sources are included.  
